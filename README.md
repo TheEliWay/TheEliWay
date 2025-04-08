@@ -18,4 +18,4 @@
 
 
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://www.linkedin.com/in/tyrek-lawson
+[linkedin]:  https://www.linkedin.com/in/tyrek-lawson-7ab2b935b/
